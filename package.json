@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_USERNAME/aquamark-mca-pilot.git"
+    "url": "git+https://github.com/aquamark-io/aquamark-mca-pilot.git"
   },
   "keywords": ["aquamark", "pdf", "watermark", "mca", "api"],
   "author": "Aquamark.io",
